@@ -1,0 +1,24 @@
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.Cache
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csprojResolveAssemblyReference.cache
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.Cache
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Sale.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.AddCustomer.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Customers.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Search_n_Update.resources
+D:\EELU\Level Four\Level Four Spring Semster 2017-2018 Courses\Integrated Information System\Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Browse.resources
